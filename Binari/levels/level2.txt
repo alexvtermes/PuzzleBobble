@@ -1,0 +1,9 @@
+TILEMAP
+7 8								-- Filas y columnas de bubbles
+gnnnnnng
+rgbyrgbn
+ynnnnnny
+byrgbyrn
+nnnrnnnn
+nnngnnnn
+nnnrnnnn
